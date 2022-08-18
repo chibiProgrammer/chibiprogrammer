@@ -1,6 +1,6 @@
 ## 🌱 Chibiprogrammer 🌱
 
-## Use Often
+## Often Use
 <a href="https://avatars.githubusercontent.com/ruby"><img src="https://avatars.githubusercontent.com/ruby" style="width: 50px;" hspace="5"></a>
 <a href="https://avatars.githubusercontent.com/rails"><img src="https://avatars.githubusercontent.com/rails" style="width: 50px;" hspace="5"></a>
 <a href="https://avatars.githubusercontent.com/rails"><img src="https://avatars.githubusercontent.com/vuejs" style="width: 50px;" hspace="5"></a>
